@@ -1,1 +1,47 @@
 /*  your css code here. If applicable */
+  *{
+            margin:0px;
+            padding:0px;
+        }
+        html{
+            background-color: #FFFFFF;
+        }
+        body{
+            background-color: #CBD6CB;
+            width: 1100px;
+            margin:auto;
+        }
+        .imageContainer{
+            width: 600px;
+            margin: 10px;
+        }
+        table{
+            border: 2px solid gray;
+            margin: 10px;
+        }
+        .imageContainer img{
+            width:100%;
+            margin: 2px;
+        }
+        .first{
+            width:200px;
+        }
+        .first img{
+            width: 200px;
+        }
+        .second{
+            width: 600px;
+            text-align: center;
+        }
+        .third{
+            width:200px;
+        }
+        .third img{
+            width: 200px;
+        }
+        td{
+            border: 2px solid gray;
+        }
+        td p{
+            text-align: center;
+        }
